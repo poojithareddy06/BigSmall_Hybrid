@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="134098" started-at="2021-11-22T15:34:43 IST" finished-at="2021-11-22T15:36:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="134098" started-at="2021-11-22T15:34:43 IST" finished-at="2021-11-22T15:36:57 IST">
+      <class name="com.bs.Runner.BigSmallRunner">
+        <test-method status="PASS" signature="driver()[pri:1, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="driver" duration-ms="8555" started-at="2021-11-22T15:34:43 IST" finished-at="2021-11-22T15:34:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver -->
+        <test-method status="PASS" signature="openwebsite()[pri:2, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="openwebsite" duration-ms="4813" started-at="2021-11-22T15:34:51 IST" finished-at="2021-11-22T15:34:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openwebsite -->
+        <test-method status="PASS" signature="login()[pri:3, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="login" duration-ms="33648" started-at="2021-11-22T15:34:56 IST" finished-at="2021-11-22T15:35:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createaccount()[pri:4, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="createaccount" duration-ms="13657" started-at="2021-11-22T15:35:30 IST" finished-at="2021-11-22T15:35:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createaccount -->
+        <test-method status="PASS" signature="corporategifts()[pri:5, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="corporategifts" duration-ms="9920" started-at="2021-11-22T15:35:43 IST" finished-at="2021-11-22T15:35:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- corporategifts -->
+        <test-method status="PASS" signature="personalizedgifts()[pri:6, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="personalizedgifts" duration-ms="19301" started-at="2021-11-22T15:35:53 IST" finished-at="2021-11-22T15:36:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalizedgifts -->
+        <test-method status="PASS" signature="wishlist()[pri:7, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="wishlist" duration-ms="7714" started-at="2021-11-22T15:36:13 IST" finished-at="2021-11-22T15:36:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishlist -->
+        <test-method status="PASS" signature="giftcard()[pri:8, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="giftcard" duration-ms="7307" started-at="2021-11-22T15:36:20 IST" finished-at="2021-11-22T15:36:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcard -->
+        <test-method status="PASS" signature="subscribe()[pri:9, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="subscribe" duration-ms="3253" started-at="2021-11-22T15:36:28 IST" finished-at="2021-11-22T15:36:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscribe -->
+        <test-method status="PASS" signature="aboutus()[pri:10, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="aboutus" duration-ms="7111" started-at="2021-11-22T15:36:31 IST" finished-at="2021-11-22T15:36:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutus -->
+        <test-method status="PASS" signature="searchprods(java.lang.String)[pri:10, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="searchprods" duration-ms="16055" started-at="2021-11-22T15:36:38 IST" data-provider="getCredentials" finished-at="2021-11-22T15:36:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[D:\BigSmall\TestData\SearchData.xlsx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchprods -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.bs.Runner.BigSmallRunner@54e1c68b]" name="closeDriver" is-config="true" duration-ms="2597" started-at="2021-11-22T15:36:54 IST" finished-at="2021-11-22T15:36:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.bs.Runner.BigSmallRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

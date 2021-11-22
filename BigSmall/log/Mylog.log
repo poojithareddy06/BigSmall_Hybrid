@@ -1,0 +1,11 @@
+15:34:51.369 [main] INFO  com.bs.Runner.BigSmallRunner - Setting driver
+15:34:56.463 [main] INFO  com.bs.Runner.BigSmallRunner - Opening website
+15:35:30.115 [main] INFO  com.bs.Runner.BigSmallRunner - Logged into account 
+15:35:41.906 [main] INFO  com.bs.Runner.BigSmallRunner - Creating Account
+15:35:53.699 [main] INFO  com.bs.Runner.BigSmallRunner - Corporate Gifts details entered
+15:36:13.001 [main] INFO  com.bs.Runner.BigSmallRunner - Added personalized gift successfully
+15:36:20.719 [main] INFO  com.bs.Runner.BigSmallRunner - Product is in Wishlist
+15:36:28.027 [main] INFO  com.bs.Runner.BigSmallRunner - Gift cards are available
+15:36:31.282 [main] INFO  com.bs.Runner.BigSmallRunner - Subscribed to Newsletter
+15:36:38.399 [main] INFO  com.bs.Runner.BigSmallRunner - Title verified
+15:36:54.515 [main] INFO  com.bs.Runner.BigSmallRunner - Searched products from excel sheet
